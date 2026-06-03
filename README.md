@@ -1,7 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aniket%20Sinha&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 <div align="center">
 
-### AI Engineer • Automation Builder • Full Stack Developer
+<p align="center">
+  🤖 AI Engineer &nbsp; • &nbsp;
+  ⚡ Automation Builder &nbsp; • &nbsp;
+  💻 Full Stack Developer
+</p>
 
 Building scalable AI-powered systems, enrichment pipelines, and intelligent automation tools.
 
