@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Aniket%20Sinha&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 <div align="center">
 
 # Aniket Sinha
@@ -69,14 +70,6 @@ Built an end-to-end AI pipeline using:
 * Playwright
 * GPT-4o-mini
 * React 19 + TypeScript
-
-Features:
-
-* Automated company discovery
-* AI-guided extraction
-* Pipeline monitoring
-* Excel export
-* Intelligent enrichment workflows
 
 ---
 
