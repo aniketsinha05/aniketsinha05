@@ -13,6 +13,10 @@ Building scalable AI-powered systems, enrichment pipelines, and intelligent auto
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+Automation+Engineer;FastAPI+%7C+React+%7C+Playwright;Building+End-to-End+AI+Pipelines)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,nodejs,mysql,git,linux,vscode" />
+</p>
+
 </div>
 
 ---
