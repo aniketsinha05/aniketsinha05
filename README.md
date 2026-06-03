@@ -80,19 +80,22 @@ Features:
 
 ---
 
-## GitHub Stats
+## Contribution Snake
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniketsinha05&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketsinha05&layout=compact&langs_count=8&theme=tokyonight"/>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=aniketsinha05&theme=tokyonight"/>
-
-![Streak](https://streak-stats.demolab.com/?user=aniketsinha05\&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketsinha05/aniketsinha05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketsinha05/aniketsinha05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniketsinha05/aniketsinha05/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 ## Connect With Me
 
-* LinkedIn: linkedin.com/in/aniket-raj-sinha
-* GitHub: github.com/aniketsinha05
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aniket-raj-sinha/" target="_blank">LinkedIn</a>
+  •   <a href="mailto:aniketraksinha@gmail.com">Email</a>
+
+</div>
+
