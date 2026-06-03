@@ -23,7 +23,7 @@ Building scalable AI-powered systems, enrichment pipelines, and intelligent auto
 
 ## About Me
 
-* B.Tech CSE (AI & DS) student at PCET’s Pimpri Chinchwad University
+* B.Tech CSE (AI & DS) student at [PCET’s Pimpri Chinchwad University](https://pcu.edu.in/)
 * University Topper with 9.6 CGPA
 * Building AI-powered automation and enrichment systems
 * Interested in scalable backend systems, AI workflows, and intelligent data pipelines
